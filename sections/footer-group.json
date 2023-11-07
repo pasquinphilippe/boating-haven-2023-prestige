@@ -1,1 +1,112 @@
-{"type":"footer","name":"Footer group","sections":{"text-with-icons":{"type":"text-with-icons","blocks":{"icon-1":{"type":"item","settings":{"title":"Free delivery worldwide"}},"icon-2":{"type":"item","settings":{"title":"Satisfied or refunded"}},"icon-3":{"type":"item","settings":{"title":"Top-notch support"}},"icon-4":{"type":"item","settings":{"title":"Secure payments"}}},"block_order":["icon-1","icon-2","icon-3","icon-4"],"settings":{}},"footer":{"type":"footer","blocks":{"cfdf2ace-b0ac-45bc-8b11-37c2f3b47ba5":{"type":"text","settings":{"title":"","content":"<p><\/p><p>Ensemble, nous pouvons faire une différence un vêtement à la fois.<\/p>"}},"c6914472-5a29-49ce-b784-8523511f7c12":{"type":"links","settings":{"menu":"a-propos-de-nous"}},"9dd0c66e-b962-4bb4-bcbb-696713e265ca":{"type":"links","settings":{"menu":"footer"}},"52f55c1f-c6af-4be5-ae5a-c3f86f4580e9":{"type":"newsletter","settings":{"title":"Infolettre","content":"<p>Recevez 20% de rabais en vous inscrivant!<\/p>"}}},"block_order":["cfdf2ace-b0ac-45bc-8b11-37c2f3b47ba5","c6914472-5a29-49ce-b784-8523511f7c12","9dd0c66e-b962-4bb4-bcbb-696713e265ca","52f55c1f-c6af-4be5-ae5a-c3f86f4580e9"],"settings":{"show_country_selector":true,"show_locale_selector":true}}},"order":["text-with-icons","footer"]}
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Same day fulfillment",
+            "content": "<p>All orders placed before 4pm EST are fulfilled the same day. We have shipping locations in both New Jersey and Florida. <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">Click here to view our shipping policy.<\/a><\/p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Satisfied or refunded",
+            "content": "<p>We guarantee your satisfaction or your money back! Enjoy peace of mind with our hassle-free 30-day return policy. <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Click here to view our return policy.<\/a><\/p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Price march Policy",
+            "content": "<p>We are committed to offering the best prices possible. If you find a lower price on an item that is not subject to a MAP or MSRP policy, we will match it. Click here to view our price match policy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": true,
+        "stack_on_mobile": false,
+        "icon_color": "#fafafa",
+        "text_color": "#fafafa",
+        "text_alignment": "center"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "cfdf2ace-b0ac-45bc-8b11-37c2f3b47ba5": {
+          "type": "text",
+          "settings": {
+            "title": "The Boating Haven Store",
+            "content": "<p>Dive into a world where boating meets convenience and discover a vast selection of over 45,000 premium boating and RV products. Set sail with The Boating Haven Store and anchor your passion for boating with our unparalleled service and extensive product range!<\/p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "c6914472-5a29-49ce-b784-8523511f7c12": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "9dd0c66e-b962-4bb4-bcbb-696713e265ca": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-legal",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "52f55c1f-c6af-4be5-ae5a-c3f86f4580e9": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Receive 10% off when you subscribe to our newsletter<\/p>",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "cfdf2ace-b0ac-45bc-8b11-37c2f3b47ba5",
+        "c6914472-5a29-49ce-b784-8523511f7c12",
+        "9dd0c66e-b962-4bb4-bcbb-696713e265ca",
+        "52f55c1f-c6af-4be5-ae5a-c3f86f4580e9"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}

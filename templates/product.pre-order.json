@@ -1,1 +1,50 @@
-{"sections":{"main":{"type":"main-product","blocks":{"7d315000-b748-4f35-a4f1-a46bbb4e0725":{"type":"shopify:\/\/apps\/fit-quiz-for-clothes-and-shoes\/blocks\/fitquiz-block\/b10c5f36-d033-4d47-9f46-97864f785a5a","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_payment_button":true}},"description":{"type":"description","settings":{}},"share_buttons":{"type":"share_buttons","settings":{}}},"block_order":["7d315000-b748-4f35-a4f1-a46bbb4e0725","quantity_selector","buy_buttons","description","share_buttons"],"settings":{"enable_video_looping":true,"enable_image_zoom":true}},"recently-viewed-products":{"type":"recently-viewed-products","settings":{"title":"Recently viewed"}}},"order":["main","recently-viewed-products"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share_buttons": {
+          "type": "share_buttons",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share_buttons"
+      ],
+      "settings": {
+        "enable_video_looping": true,
+        "enable_image_zoom": true
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "title": "Recently viewed"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recently-viewed-products"
+  ]
+}

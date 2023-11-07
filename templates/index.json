@@ -1,1 +1,312 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"6635b68a-199c-4bcf-927d-8615856add9f":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Vous_etes_sur_la_liste_1800_x_1200_px.png","mobile_image":"shopify:\/\/shop_images\/Vous_etes_sur_la_liste_1800_x_1200_px_750_x_1100_px.png","subheading":"","title":"","button_1_text":"Magasiner","button_1_link":"shopify:\/\/collections\/soldes","button_2_text":"","button_2_link":""}},"a414c295-fe9e-411e-a298-ff33627e087b":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/face-de-pete.jpg","mobile_image":"shopify:\/\/shop_images\/facedepetemobile.jpg","subheading":"PAS SI FOU!","title":"D'acheter \"fabriqué chez nous\".","button_1_text":"Message Factory","button_1_link":"shopify:\/\/collections\/bas-denim-biologique","button_2_text":"OÖM ETHIKWEAR","button_2_link":"shopify:\/\/collections\/bas-denim-biologique"}},"slide-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/val3.jpg","mobile_image":"shopify:\/\/shop_images\/vala-l_envers.jpg","subheading":"VENDREDI FOU","title":"Très bientôt, incrivez-vous!","button_1_text":"Message Factory","button_1_link":"shopify:\/\/collections\/hauts","button_2_text":"","button_2_link":"shopify:\/\/collections\/nouveautes-oom"}},"79cf88d6-cc04-46d3-ba9c-8829ef0af3bb":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/vendredifou.jpg","mobile_image":"shopify:\/\/shop_images\/asdstock-mobile.jpg","subheading":"ACHETER \"FABRIQUÉ CHEZ NOUS","title":"C'est loin d'être fou!","button_1_text":"Message Factory","button_1_link":"shopify:\/\/collections\/hauts","button_2_text":"","button_2_link":"shopify:\/\/collections\/nouveautes-oom"}},"slide-0":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/20220524_MF_SHOT16_5979.jpg","mobile_image":"shopify:\/\/shop_images\/couple_cell_noel.jpg","subheading":"Soldes d'Après Noël","title":"C'est parti! Jusqu'à 50% de rabais","button_1_text":"Soldes FEMMES","button_1_link":"shopify:\/\/collections\/soldes","button_2_text":"Soldes HOMMES","button_2_link":"shopify:\/\/collections\/soldes-oom"}}},"block_order":["6635b68a-199c-4bcf-927d-8615856add9f","a414c295-fe9e-411e-a298-ff33627e087b","slide-1","79cf88d6-cc04-46d3-ba9c-8829ef0af3bb","slide-0"],"settings":{"autoplay":true,"cycle_speed":4}},"166275167486cfef37":{"type":"collection-list","blocks":{"166275167493cdcdfc-2":{"type":"collection","settings":{"collection":"nouveautes-bas","image":"shopify:\/\/shop_images\/Perfect_Monday_2e4ea8b0-8fec-40aa-a765-8448d3ba4d49.jpg","content_position":"bottomLeft","subheading":"Pantalons tendance","title":"Étroits ou évasés>","button_text":"","button_link":""}},"166275167493cdcdfc-0":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/Visuels_Bloom_2.jpg","content_position":"bottomLeft","subheading":"","title":"","button_text":"","button_link":""}},"166275167493cdcdfc-1":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/Visuels_Bloom_5.jpg","content_position":"bottomLeft","subheading":"Les tuniques","title":"Nouveautés >","button_text":"","button_link":"shopify:\/\/collections\/tuniques"}}},"block_order":["166275167493cdcdfc-2","166275167493cdcdfc-0","166275167493cdcdfc-1"],"settings":{"image_size":"normal"}},"16627529718aecac7c":{"type":"featured-collections","blocks":{"16627529719c494ff1-0":{"type":"collection","disabled":true,"settings":{"collection":"nouveautes-essentiels","title":""}},"4f3fe1e1-c86c-4831-8112-11811e0ece8e":{"type":"collection","settings":{"collection":"soldes","title":"Par ici !"}}},"block_order":["16627529719c494ff1-0","4f3fe1e1-c86c-4831-8112-11811e0ece8e"],"settings":{}},"1662752428d2d64053":{"type":"shop-the-look","blocks":{"a7071cfb-0ab1-408e-b0ec-9056f7ba2b89":{"type":"look","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/shopping_99f653f7-002c-48a3-a841-8e4fb411e79a.jpg","product_1":"estelle-veste-courte-de-laine-recyclee","product_1_horizontal_position":35,"product_1_vertical_position":49,"product_2":"emmanuelle-legging-jambe-evasee-noir","product_2_horizontal_position":85,"product_2_vertical_position":65,"product_3":"bolton-chandail-manches-longues-rouille","product_3_horizontal_position":55,"product_3_vertical_position":34}},"d925b907-2457-49d7-8534-cb3f38200b2f":{"type":"look","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/shopping_3.jpg","product_1":"moonflower-legging-noir-nature","product_1_horizontal_position":39,"product_1_vertical_position":67,"product_2":"racine-chandail-en-molleton-creme","product_2_horizontal_position":47,"product_2_vertical_position":32,"product_3":"","product_3_horizontal_position":85,"product_3_vertical_position":85}},"d3fd577b-c768-4e34-8d3c-7527f8ef9273":{"type":"look","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/shopping_2.jpg","product_1":"abby-chandail-a-capuchon-bleu","product_1_horizontal_position":37,"product_1_vertical_position":34,"product_2":"emmanuelle-legging-jambe-evasee-marine","product_2_horizontal_position":49,"product_2_vertical_position":57,"product_3":"","product_3_horizontal_position":85,"product_3_vertical_position":85}},"166275242825c9644d-0":{"type":"look","settings":{"image":"shopify:\/\/shop_images\/Sara_marine_1260X1800_3.jpg","product_1":"echo-verde-sara-marine","product_1_horizontal_position":47,"product_1_vertical_position":53,"product_2":"perce-chemisier-manches-longues-blanc","product_2_horizontal_position":55,"product_2_vertical_position":27,"product_3":"hatley-pantalon-extensible-jambe-large-caramel","product_3_horizontal_position":43,"product_3_vertical_position":75}}},"block_order":["a7071cfb-0ab1-408e-b0ec-9056f7ba2b89","d925b907-2457-49d7-8534-cb3f38200b2f","d3fd577b-c768-4e34-8d3c-7527f8ef9273","166275242825c9644d-0"],"settings":{"subheading":"","title":"Le kit parfait"}},"166307324794f476a3":{"type":"blog-posts","settings":{"show_category":false,"subheading":"","title":"","button_link":"shopify:\/\/blogs\/mode","button_text":"Consulter notre blog"}},"166307329359558722":{"type":"apps","settings":{}},"16642193625f5f8479":{"type":"apps","blocks":{"4b00e3c7-2238-4041-bc71-fd996e5513c5":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"html_area":"<!-- -->"}}},"block_order":["4b00e3c7-2238-4041-bc71-fd996e5513c5"],"settings":{}},"5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7":{"type":"slideshow","blocks":{"template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-0":{"type":"image","disabled":true,"settings":{"subheading":"Slide title","title":"Tell your story","button_1_text":"","button_1_link":"","button_2_text":"","button_2_link":""}},"template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-1":{"type":"image","disabled":true,"settings":{"subheading":"Slide title","title":"Tell your story","button_1_text":"","button_1_link":"","button_2_text":"","button_2_link":""}}},"block_order":["template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-0","template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-1"],"settings":{"autoplay":true,"cycle_speed":5}}},"order":["slideshow","166275167486cfef37","16627529718aecac7c","1662752428d2d64053","166307324794f476a3","166307329359558722","16642193625f5f8479","5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "02407994-8fab-4651-af59-cd14c6d4bbae": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hero_Images_2.png",
+            "subheading": "Carefully selected products to winterize your boat",
+            "title": "Winterizing",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "Shop Winterizing Products",
+            "button_1_link": "shopify:\/\/collections\/winterizing",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "Shop Winter Covers",
+            "button_2_link": "shopify:\/\/collections\/winterizing-winter-covers",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "02407994-8fab-4651-af59-cd14c6d4bbae"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": true,
+        "media_size": "md",
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 4,
+        "background": "#000000",
+        "controls_color": "#0066cc"
+      }
+    },
+    "166275167486cfef37": {
+      "type": "collection-list",
+      "blocks": {
+        "166275167493cdcdfc-2": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "anchoring-docking",
+            "expand_collection": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Anchoring & Docking>",
+            "button_text": "",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "166275167493cdcdfc-0": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "boat-outfitting-trolling-motors",
+            "expand_collection": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Trolling motors>",
+            "button_text": "",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "166275167493cdcdfc-1": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "deals",
+            "expand_collection": false,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "Special Deals >",
+            "button_text": "",
+            "button_link": "shopify:\/\/collections\/tuniques",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "30016e19-f164-4914-8f19-5cb7000935c2": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "marine-navigation-instruments",
+            "expand_collection": true,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Marine navigation>",
+            "button_text": "View products",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "166275167493cdcdfc-2",
+        "166275167493cdcdfc-0",
+        "166275167493cdcdfc-1",
+        "30016e19-f164-4914-8f19-5cb7000935c2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "xs",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 3,
+        "subheading": "Special",
+        "title": "Fall Collections",
+        "content": ""
+      }
+    },
+    "16627529718aecac7c": {
+      "type": "featured-collections",
+      "blocks": {
+        "4f3fe1e1-c86c-4831-8112-11811e0ece8e": {
+          "type": "collection",
+          "settings": {
+            "collection": "deals",
+            "products_count": 12,
+            "title": "Deals ahead!",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "4f3fe1e1-c86c-4831-8112-11811e0ece8e"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 0.7,
+        "vertical_spacing_factor": 1,
+        "subheading": "Currently on sale"
+      }
+    },
+    "1662752428d2d64053": {
+      "type": "shop-the-look",
+      "blocks": {
+        "166275242825c9644d-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design.png",
+            "hot_spots_background": "#ffffff",
+            "product_1": "taco-caladesi-smooth-bucket-seat-white-ba2-25wht",
+            "product_1_horizontal_position": 19,
+            "product_1_vertical_position": 77,
+            "product_2": "lowrance-hook-reveal-7-chartplotter-fishfinder-w-splitshot-transom-mount-transducer-us-inland-charts-000-15512-001",
+            "product_2_horizontal_position": 30,
+            "product_2_vertical_position": 31,
+            "product_3": "faria-chesapeake-white-ss-4-studded-speedometer-60mph-gps-33839",
+            "product_3_horizontal_position": 32,
+            "product_3_vertical_position": 52,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        },
+        "1f40f519-c799-44b4-b1b6-2347cd4d3ffb": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1.png",
+            "hot_spots_background": "#ffffff",
+            "product_1": "polyform-htm-3-fender-10-5-x-27-black-htm-3-blackwo",
+            "product_1_horizontal_position": 91,
+            "product_1_vertical_position": 59,
+            "product_2": "fulton-marine-grade-bunk-carpeting-12-x-144-black-cr8012",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "sureshade-power-bimini-clear-anodized-frame-black-fabric-2020000297",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 10,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "166275242825c9644d-0",
+        "1f40f519-c799-44b4-b1b6-2347cd4d3ffb"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
+    },
+    "166307324794f476a3": {
+      "type": "blog-posts",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "",
+        "posts_count": 3,
+        "stack_on_mobile": false,
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "Ressources",
+        "title": "Stay up to date",
+        "content": "",
+        "button_link": "shopify:\/\/blogs\/mode",
+        "button_text": "See all blogs"
+      }
+    },
+    "5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
+        },
+        "template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "subheading": "Slide title",
+            "title": "Tell your story",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-0",
+        "template--16542086267112__5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7-1667002268c71c6703-1"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "166275167486cfef37",
+    "16627529718aecac7c",
+    "1662752428d2d64053",
+    "166307324794f476a3",
+    "5b9aebb1-12b7-4da0-b96c-9a7e6521d4e7"
+  ]
+}

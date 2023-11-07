@@ -1,1 +1,406 @@
-{"sections":{"main":{"type":"main-product","blocks":{"5bd72040-7b51-4dcb-aec9-675f3745996f":{"type":"shopify:\/\/apps\/fit-quiz-for-clothes-and-shoes\/blocks\/fitquiz-block\/b10c5f36-d033-4d47-9f46-97864f785a5a","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_payment_button":false}},"description":{"type":"description","settings":{}},"share_buttons":{"type":"share_buttons","settings":{}}},"block_order":["5bd72040-7b51-4dcb-aec9-675f3745996f","quantity_selector","buy_buttons","description","share_buttons"],"settings":{"enable_video_looping":true,"enable_image_zoom":true}},"recently-viewed-products":{"type":"recently-viewed-products","settings":{"title":"Vu récemment"}}},"order":["main","recently-viewed-products"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "7d28fd85-2483-4ef0-b6ea-72c62f112a17": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "25a3a824-a217-47d2-b261-1ce24c6f4f75": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "efe89e18-4ea5-44df-81eb-3a818854e491": {
+          "type": "sku",
+          "settings": {
+          }
+        },
+        "44685d78-32db-4d4a-9526-20d79e5a3121": {
+          "type": "inventory",
+          "settings": {
+            "show_in_stock_quantity": true,
+            "low_inventory_threshold": 3,
+            "show_progress_bar": true,
+            "progress_bar_max_value": 25
+          }
+        },
+        "2e653540-a18e-4e0c-8d15-74c9db218582": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "769072d0-067b-4e02-b615-064eb01979cb": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "a8347d8d-2c18-447e-95f7-96a4c3d2a93a": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "4 hours to secure a",
+            "link": "",
+            "icon": "picto-box",
+            "icon_width": 16,
+            "background": "#0066cc",
+            "text_color": "#fafafa",
+            "border_color": "#fafafa"
+          }
+        },
+        "df9c91b0-b1c4-4959-8eca-ad7928d7ea59": {
+          "type": "offers",
+          "settings": {
+            "stack_offers": true,
+            "offer_1_title": "Same day shipping before 4pm",
+            "offer_1_content": "<p>Share some temporary offers to your customers.<\/p>",
+            "offer_2_title": "",
+            "offer_2_content": "",
+            "offer_3_title": "",
+            "offer_3_content": "",
+            "background": "",
+            "text_color": "",
+            "border_color": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true,
+            "show_below_gallery": true
+          }
+        }
+      },
+      "block_order": [
+        "7d28fd85-2483-4ef0-b6ea-72c62f112a17",
+        "25a3a824-a217-47d2-b261-1ce24c6f4f75",
+        "efe89e18-4ea5-44df-81eb-3a818854e491",
+        "44685d78-32db-4d4a-9526-20d79e5a3121",
+        "2e653540-a18e-4e0c-8d15-74c9db218582",
+        "769072d0-067b-4e02-b615-064eb01979cb",
+        "quantity_selector",
+        "a8347d8d-2c18-447e-95f7-96a4c3d2a93a",
+        "df9c91b0-b1c4-4959-8eca-ad7928d7ea59",
+        "buy_buttons",
+        "description"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "full",
+        "product_info_size": 60,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": true,
+        "desktop_media_layout": "grid",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "4ac81af2-c5cd-49f1-ae9c-04512a95b885": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21597531898155__4ac81af2-c5cd-49f1-ae9c-04512a95b885-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "deals",
+            "products_count": 8,
+            "title": "Currently on sale",
+            "link_url": "shopify:\/\/collections\/deals",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "template--21597531898155__4ac81af2-c5cd-49f1-ae9c-04512a95b885-collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Special Deals"
+      }
+    },
+    "a31aa8ad-2f64-4358-b552-796a34644883": {
+      "type": "faq",
+      "blocks": {
+        "template--21597531898155__a31aa8ad-2f64-4358-b552-796a34644883-category-1": {
+          "type": "category",
+          "settings": {
+            "title": "General Information",
+            "icon": "picto-pin",
+            "icon_width": 16
+          }
+        },
+        "template--21597531898155__a31aa8ad-2f64-4358-b552-796a34644883-question-1": {
+          "type": "question",
+          "settings": {
+            "question": "What is The Boating Haven Store?",
+            "answer": "<p>The Boating Haven Store is an online retailer specializing in high-quality marine supplies. We offer a wide selection of products for boating enthusiasts, including navigation equipment, safety gear, maintenance supplies, and much more, all available through our easy-to-use website.<\/p>"
+          }
+        },
+        "template--21597531898155__a31aa8ad-2f64-4358-b552-796a34644883-question-2": {
+          "type": "question",
+          "settings": {
+            "question": "Do you have a physical store location?",
+            "answer": "<p>We are exclusively an online store, which allows us to serve customers nationwide with a broad selection of marine supplies. This ensures you can shop with us 24\/7 from the comfort of your own home or while on the go.<\/p>"
+          }
+        },
+        "45ba01fc-a88d-4133-ac8b-ff664138ecf5": {
+          "type": "category",
+          "settings": {
+            "title": "Product Information",
+            "icon": "picto-target",
+            "icon_width": 16
+          }
+        },
+        "494432be-5c34-40ee-8307-f2782e4d528b": {
+          "type": "question",
+          "settings": {
+            "question": "How do I know which product is right for my boat?",
+            "answer": "<p>Each product on our website includes detailed information and specifications. We also provide a comparison feature and expert reviews to help you make an informed decision. If you need further assistance, our customer service team is available to offer personalized advice.<\/p>"
+          }
+        },
+        "4e8251d4-3e69-40e9-b643-0b50d9ecd4a3": {
+          "type": "question",
+          "settings": {
+            "question": "Are the products new or used?",
+            "answer": "<p>All products available at The Boating Haven Store are brand new and sourced directly from reputable manufacturers and suppliers in the marine industry.<\/p>"
+          }
+        },
+        "2dae2812-14fe-4b06-b5b5-ddc212324ab9": {
+          "type": "category",
+          "settings": {
+            "title": "Ordering and Payment",
+            "icon": "picto-credit-card",
+            "icon_width": 16
+          }
+        },
+        "dd45d461-3a96-4318-846e-8ad99a6e260d": {
+          "type": "question",
+          "settings": {
+            "question": "How do I place an order?",
+            "answer": "<p>You can place an order directly through our website. Simply add the desired items to your cart, proceed to checkout, and follow the instructions to complete your purchase.<\/p>"
+          }
+        },
+        "44ae24e1-f771-4e58-8413-9080cb7d25b9": {
+          "type": "question",
+          "settings": {
+            "question": "What payment methods do you accept?",
+            "answer": "<p>We accept various payment methods including major credit cards, PayPal, and other secure payment options. All transactions are encrypted for your security.<\/p>"
+          }
+        },
+        "0dd475ae-128b-4a23-a9cf-a63c640b8458": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping and Delivery",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16
+          }
+        },
+        "754433b2-42ad-4b43-8a5c-7ddaddd019a3": {
+          "type": "question",
+          "settings": {
+            "question": "How long will my order take to arrive?",
+            "answer": "<p>Delivery times vary depending on the product and your location. All orders are processed the same business day (before 4pm est), with delivery times ranging from 2-7 business days thereafter.<\/p>"
+          }
+        },
+        "6df88537-beac-4a4d-b5f1-4963e343c1c2": {
+          "type": "question",
+          "settings": {
+            "question": "Do you offer expedited shipping?",
+            "answer": "<p>Yes, we offer expedited shipping options for most products. You can select your preferred shipping method at checkout for an additional fee.<\/p>"
+          }
+        },
+        "7d0380f5-5b43-44d7-807f-6d42a135c69f": {
+          "type": "question",
+          "settings": {
+            "question": "Can I track my order?",
+            "answer": "<p>Absolutely! Once your order is shipped, we will provide you with a tracking number so you can monitor your shipment’s progress.<\/p>"
+          }
+        },
+        "b1f1fc0c-1a99-45c2-b8a7-c5b1a18067cd": {
+          "type": "category",
+          "settings": {
+            "title": "Returns and Refunds",
+            "icon": "picto-return",
+            "icon_width": 16
+          }
+        },
+        "10863357-2e81-4258-a81f-4da9db618387": {
+          "type": "question",
+          "settings": {
+            "question": "What is your return policy?",
+            "answer": "<p>We offer a 30-day return policy for most items. Products must be returned in their original condition and packaging. Please visit our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Returns & Refunds page for detailed information.<\/a><\/p>"
+          }
+        },
+        "85b37349-2c26-4e4e-981f-319d37299190": {
+          "type": "question",
+          "settings": {
+            "question": "How do I initiate a return?",
+            "answer": "<p>To initiate a return, please visit <a href=\"https:\/\/account.boatinghaven.com\/orders\" target=\"_blank\" title=\"https:\/\/account.boatinghaven.com\/orders\">this link to start the return process<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21597531898155__a31aa8ad-2f64-4358-b552-796a34644883-category-1",
+        "template--21597531898155__a31aa8ad-2f64-4358-b552-796a34644883-question-1",
+        "template--21597531898155__a31aa8ad-2f64-4358-b552-796a34644883-question-2",
+        "45ba01fc-a88d-4133-ac8b-ff664138ecf5",
+        "494432be-5c34-40ee-8307-f2782e4d528b",
+        "4e8251d4-3e69-40e9-b643-0b50d9ecd4a3",
+        "2dae2812-14fe-4b06-b5b5-ddc212324ab9",
+        "dd45d461-3a96-4318-846e-8ad99a6e260d",
+        "44ae24e1-f771-4e58-8413-9080cb7d25b9",
+        "0dd475ae-128b-4a23-a9cf-a63c640b8458",
+        "754433b2-42ad-4b43-8a5c-7ddaddd019a3",
+        "6df88537-beac-4a4d-b5f1-4963e343c1c2",
+        "7d0380f5-5b43-44d7-807f-6d42a135c69f",
+        "b1f1fc0c-1a99-45c2-b8a7-c5b1a18067cd",
+        "10863357-2e81-4258-a81f-4da9db618387",
+        "85b37349-2c26-4e4e-981f-319d37299190"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": true,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "scheme-1",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently Seen",
+        "content": ""
+      }
+    },
+    "594fb738-a2df-4b51-9e1e-99846d1eaf87": {
+      "type": "contact",
+      "blocks": {
+        "c9a1a9be-e153-44e8-add4-00cf2c9995a5": {
+          "type": "text",
+          "settings": {
+            "title": "Phone Number",
+            "use_long_text": false,
+            "required": true
+          }
+        },
+        "b5570824-929f-4324-a633-346d2bf546f9": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Subject",
+            "values": "Product Informations, Shipping Informations, Partnerships, Others"
+          }
+        }
+      },
+      "block_order": [
+        "c9a1a9be-e153-44e8-add4-00cf2c9995a5",
+        "b5570824-929f-4324-a633-346d2bf546f9"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "Contact",
+        "title": "Need help with this product?",
+        "content": "<p>Our customer support team is here to assist you Monday through Friday, from 9am to 7pm EST. We highly recommend using our live chat system for any product inquiries or requests.<\/p>"
+      }
+    },
+    "16993855504acaaf66": {
+      "type": "apps",
+      "blocks": {
+        "4c958541-59f0-4433-a215-dbaae5ba562c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "e9dd69cb-fa2e-4262-a63e-2f42c894b7a0": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "3e5c127c-a6d8-41eb-9c20-fe1634214a23": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "c5fca999-3d7c-4d48-84c8-c3e632594b9c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "010d5947-23a1-4fe6-8d5f-b4716fc76d93": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "ed2afd98-5f95-40a5-92d0-cc8d2fa0063f": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "4c958541-59f0-4433-a215-dbaae5ba562c",
+        "e9dd69cb-fa2e-4262-a63e-2f42c894b7a0",
+        "3e5c127c-a6d8-41eb-9c20-fe1634214a23",
+        "c5fca999-3d7c-4d48-84c8-c3e632594b9c",
+        "010d5947-23a1-4fe6-8d5f-b4716fc76d93",
+        "ed2afd98-5f95-40a5-92d0-cc8d2fa0063f"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4ac81af2-c5cd-49f1-ae9c-04512a95b885",
+    "a31aa8ad-2f64-4358-b552-796a34644883",
+    "recently-viewed-products",
+    "594fb738-a2df-4b51-9e1e-99846d1eaf87",
+    "16993855504acaaf66"
+  ]
+}

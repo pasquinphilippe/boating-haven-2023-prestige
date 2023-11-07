@@ -1,1 +1,66 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message-1":{"type":"message","settings":{"text":"Announce something here"}}},"block_order":["message-1"],"settings":{}},"header":{"type":"header","blocks":{"bb0da01e-9ae5-4b8a-9f67-40834a595a96":{"type":"mega_menu","settings":{}},"df76ef13-9e19-4fbc-8a0c-f6b5a90dc9e1":{"type":"mega_menu","settings":{}},"e522ec5e-c234-4545-a4bb-921cba5d9f36":{"type":"mega_menu","settings":{}},"6f763ce5-bd63-4ab2-a668-2c09e8290d4e":{"type":"mega_menu","settings":{}},"074b26ad-0fec-4bbd-8bcd-271fb0c0bec5":{"type":"mega_menu","settings":{}},"1e8d303b-24b5-42c4-870b-2667f10b3e13":{"type":"mega_menu","disabled":true,"settings":{}},"f3a9c301-ae11-4e1b-bbbf-94a1199afe10":{"type":"mega_menu","settings":{}},"b66d3585-0ea6-42ab-b3d8-4d29c8b78aaf":{"type":"mega_menu","settings":{}},"4f4d20f5-dbf2-4b7f-ab5e-a75fe6240355":{"type":"mega_menu","settings":{}}},"block_order":["bb0da01e-9ae5-4b8a-9f67-40834a595a96","df76ef13-9e19-4fbc-8a0c-f6b5a90dc9e1","e522ec5e-c234-4545-a4bb-921cba5d9f36","6f763ce5-bd63-4ab2-a668-2c09e8290d4e","074b26ad-0fec-4bbd-8bcd-271fb0c0bec5","1e8d303b-24b5-42c4-870b-2667f10b3e13","f3a9c301-ae11-4e1b-bbbf-94a1199afe10","b66d3585-0ea6-42ab-b3d8-4d29c8b78aaf","4f4d20f5-dbf2-4b7f-ab5e-a75fe6240355"],"settings":{"logo_max_width":155,"show_icons":false,"show_country_selector":false,"show_locale_selector":true}}},"order":["announcement-bar","header"]}
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "Same day shipping from NJ or Tampa for every orders placed before 4pm EST"
+          }
+        },
+        "3ec2660d-0b20-479c-9f32-33e7cd857a17": {
+          "type": "message",
+          "settings": {
+            "text": "We offer free shipping for orders over $100 in the contiguous United States"
+          }
+        }
+      },
+      "block_order": [
+        "message-1",
+        "3ec2660d-0b20-479c-9f32-33e7cd857a17"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "enable_sticky": true,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "enable_sticky": true,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "shopify:\/\/shop_images\/Boating_Haven_2023_Logo_1.png",
+        "logo_max_width": 155,
+        "logo_mobile_max_width": 100,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "menu_open_trigger": "hover",
+        "enable_search": true,
+        "sidebar_color_scheme": "",
+        "sidebar_text_font": "heading",
+        "sidebar_show_dividers": true,
+        "layout": "logo_left_navigation_inline",
+        "show_icons": true,
+        "show_country_selector": true,
+        "show_country_name": false,
+        "show_country_flag": true,
+        "show_locale_selector": false,
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify:\/\/shop_images\/Boating_Haven_2023_Logo_2.png"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

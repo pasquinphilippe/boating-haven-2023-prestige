@@ -1,1 +1,27 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact-form":{"type":"contact","settings":{}}},"order":["main","contact-form"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "contact-form": {
+      "type": "contact",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "Need help?",
+        "title": "Contact our customer support",
+        "content": "<p>Our customer support team is here to assist you Monday through Friday, from 9am to 7pm EST. We highly recommend using our live chat system for any product inquiries or requests.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form"
+  ]
+}

@@ -1,1 +1,52 @@
-{"type":"custom.overlay","name":"Overlay group","sections":{"cart-drawer":{"type":"cart-drawer","settings":{}},"newsletter-popup":{"type":"newsletter-popup","settings":{}},"privacy-banner":{"type":"privacy-banner","settings":{}}},"order":["cart-drawer","newsletter-popup","privacy-banner"]}
+{
+  "type": "custom.overlay",
+  "name": "Overlay group",
+  "sections": {
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "settings": {
+        "color_scheme": "",
+        "show_cart_note": true,
+        "show_shipping_text": true,
+        "show_view_cart_button": true,
+        "show_checkout_button": true,
+        "show_price_in_checkout_button": true,
+        "cross_sell_products": [
+          "marine-business-melamine-non-slip-coffee-mug-sailor-soul-set-of-6-14004c",
+          "ancor-premium-assorted-electrical-tape-1-2-x-20-black-red-white-green-yellow-339066",
+          "boatlife-lifeseal-sealant-cartridge-clear-1169",
+          "hosecoil-expandable-75-hose-w-nozzle-bag-hce75k",
+          "toadfish-non-tipping-10oz-white-rocks-tumblers-w-ice-ball-tray-4-tumblers-1122"
+        ],
+        "cross_sell_title": "Complete with",
+        "cross_sell_stack_products": true
+      }
+    },
+    "newsletter-popup": {
+      "type": "newsletter-popup",
+      "settings": {
+        "color_scheme": "",
+        "apparition_delay": 15,
+        "show_only_on_index": false,
+        "hide_for_account_holders": true,
+        "show_only_once": false,
+        "title": "Signup for our newsletter",
+        "content": "Enjoy 10% off when you subscribe to our newsletter. <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\"><em>Terms and condition applies<\/em><\/a>",
+        "button_text": "Subscribe"
+      }
+    },
+    "privacy-banner": {
+      "type": "privacy-banner",
+      "settings": {
+        "color_scheme": "",
+        "title": "🍪 Cookie policy",
+        "content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Privacy Policy<\/a> for more information.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "cart-drawer",
+    "newsletter-popup",
+    "privacy-banner"
+  ]
+}

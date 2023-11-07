@@ -334,7 +334,8 @@ Supported variables
             {%- if product != blank -%}
               {%- render 'pickup-availability', product_variant: product.selected_or_first_available_variant, form_id: product_form_id -%}
             {%- endif -%}
-
+          {%- when 'warranty_policy' %}
+            {%- render 'warranty_policy', background: block.settings.background, text_color: block.settings.text_color, border_color: block.settings.border_color  %}
           {%- when 'offers' -%}
             {%- assign offers_count = 0 -%}
 
@@ -404,7 +405,8 @@ Supported variables
                 render 'accordion', title: accordion_title, content: accordion_content, prose_content: true, icon: block.settings.icon, custom_icon: block.settings.custom_icon, block: block
               endif
             -%}
-
+          {%- when 'countdown_timer' -%}
+            {%- render 'countdown-timer', text: block.settings.text -%}
           {%- when 'feature_with_icon' -%}
             {%- if block.settings.text != blank or block.settings.icon != 'none' or block.settings.custom_icon != blank -%}
               {%- capture feature_content -%}

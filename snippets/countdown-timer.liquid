@@ -1,0 +1,62 @@
+<div class="product-info__block-item" data-block-type="feature-with-icon">
+  <div
+    class="feature-badge border"
+    style="--background: 0 102 204 ; background-color: rgb(var(--background));--text-color: 250 250 250; color: rgb(var(--text-color));--border-color: 250 250 250;"
+  >
+    <svg aria-hidden="true" focusable="false" fill="none" stroke-width="1.5" width="16" class="icon icon-picto-timer" viewBox="0 0 24 24">
+        <path clip-rule="evenodd" d="M12 23.25a9 9 0 1 0 0-18 9 9 0 0 0 0 18Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="m18 7.5 1.875-1.875M19.5 5.25l.75.75M12 5.25V.75m2.25 0h-4.5M12 15l-3.75-4.151" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+    <p>{{ text }}</p>
+  </div>
+</div>
+<script>
+    function updateCountdown() {
+        const now = new Date();
+        // Determine the offset for EST considering daylight saving time
+        const estOffset = now.getTimezoneOffset() === 300 ? -4 : -5;
+        const targetHour = 16; // 4 PM EST
+      
+        let currentTimeEST = new Date(now.getTime() + estOffset * 3600 * 1000);
+        let countdownDate = new Date(
+          currentTimeEST.getFullYear(),
+          currentTimeEST.getMonth(),
+          currentTimeEST.getDate(),
+          targetHour,
+          0,
+          0
+        );
+      
+        // Check if the current EST time is past 4 PM
+        if (currentTimeEST.getHours() >= targetHour) {
+          countdownDate.setDate(countdownDate.getDate() + 1); // Set countdown for the next day
+          document.getElementById("day").textContent = "tomorrow";
+        } else {
+          document.getElementById("day").textContent = "today";
+        }
+      
+        // Calculate the time remaining until the countdownDate
+        let diff = countdownDate - now;
+      
+        // If we're past 4 PM EST, adjust the difference for the next day's countdown
+        if (diff < 0) {
+          diff += 24 * 60 * 60 * 1000; // Add one day's worth of milliseconds
+          document.getElementById("day").textContent = "tomorrow"; // Ensure the 'day' span shows 'tomorrow'
+        }
+      
+        // Extract hours, minutes, and seconds from the difference
+        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+      
+        // Format the countdown string, always displaying hours
+        let countdownString = `${hours}h ${minutes}m ${seconds}s`;
+      
+        // Display the formatted countdown string
+        document.getElementById("countdown").textContent = countdownString;
+      }
+      
+      // Set up the countdown to update every second
+      const intervalId = setInterval(updateCountdown, 1000);
+      
+    </script>
