@@ -3,9 +3,28 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "d273e0eb-e14d-433c-a81d-6d2ac279464c": {
+          "type": "countdown_timer",
+          "settings": {
+            "text": "To ensure your items are shipped <span class=\"day\"><\/span>, place your order in the next <span class=\"countdownJS\"><\/span>",
+            "link": "",
+            "icon": "picto-love",
+            "icon_width": 16,
+            "background": "#0066cc",
+            "text_color": "#ffffff",
+            "border_color": ""
+          }
+        },
         "7d28fd85-2483-4ef0-b6ea-72c62f112a17": {
           "type": "vendor",
           "settings": {
+          }
+        },
+        "86146061-c262-4fd1-bfa6-8cc976e5dc87": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
           }
         },
         "25a3a824-a217-47d2-b261-1ce24c6f4f75": {
@@ -24,7 +43,7 @@
           "settings": {
             "show_in_stock_quantity": true,
             "low_inventory_threshold": 3,
-            "show_progress_bar": true,
+            "show_progress_bar": false,
             "progress_bar_max_value": 25
           }
         },
@@ -44,31 +63,11 @@
           "settings": {
           }
         },
-        "a8347d8d-2c18-447e-95f7-96a4c3d2a93a": {
-          "type": "feature_with_icon",
+        "description": {
+          "type": "description",
           "settings": {
-            "text": "4 hours to secure a",
-            "link": "",
-            "icon": "picto-box",
-            "icon_width": 16,
-            "background": "#0066cc",
-            "text_color": "#fafafa",
-            "border_color": "#fafafa"
-          }
-        },
-        "df9c91b0-b1c4-4959-8eca-ad7928d7ea59": {
-          "type": "offers",
-          "settings": {
-            "stack_offers": true,
-            "offer_1_title": "Same day shipping before 4pm",
-            "offer_1_content": "<p>Share some temporary offers to your customers.<\/p>",
-            "offer_2_title": "",
-            "offer_2_content": "",
-            "offer_3_title": "",
-            "offer_3_content": "",
-            "background": "",
-            "text_color": "",
-            "border_color": ""
+            "collapse_content": true,
+            "show_below_gallery": false
           }
         },
         "buy_buttons": {
@@ -82,26 +81,28 @@
             "payment_button_text_color": ""
           }
         },
-        "description": {
-          "type": "description",
+        "8e222f89-5781-40d9-82dd-02cb30979974": {
+          "type": "warranty_policy",
           "settings": {
-            "collapse_content": true,
-            "show_below_gallery": true
+            "background": "",
+            "text_color": "#1c1c1c",
+            "border_color": "#0066cc"
           }
         }
       },
       "block_order": [
+        "d273e0eb-e14d-433c-a81d-6d2ac279464c",
         "7d28fd85-2483-4ef0-b6ea-72c62f112a17",
+        "86146061-c262-4fd1-bfa6-8cc976e5dc87",
         "25a3a824-a217-47d2-b261-1ce24c6f4f75",
         "efe89e18-4ea5-44df-81eb-3a818854e491",
         "44685d78-32db-4d4a-9526-20d79e5a3121",
         "2e653540-a18e-4e0c-8d15-74c9db218582",
         "769072d0-067b-4e02-b615-064eb01979cb",
         "quantity_selector",
-        "a8347d8d-2c18-447e-95f7-96a4c3d2a93a",
-        "df9c91b0-b1c4-4959-8eca-ad7928d7ea59",
+        "description",
         "buy_buttons",
-        "description"
+        "8e222f89-5781-40d9-82dd-02cb30979974"
       ],
       "settings": {
         "color_scheme": "",
