@@ -1,11 +1,13 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
+    "contact-form": {
+      "type": "contact",
       "settings": {
         "color_scheme": "",
-        "show_title": true,
-        "page_width": "xs"
+        "separate_section_with_border": true,
+        "subheading": "Need help?",
+        "title": "Contact our customer support",
+        "content": "<p>Our customer support team is here to assist you Monday through Friday, from 9am to 7pm EST. We highly recommend using our live chat system for any product inquiries or requests.<\/p>"
       }
     },
     "9f63dc49-09c3-475c-a090-01f89308769f": {
@@ -27,7 +29,7 @@
         "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p>By online chat<\/p><p>By email support@boatinghaven.com<\/p>"
+            "content": "<p>By online chat<\/p><p>By email support@boatinghaven.com<\/p><p>By phone +1 855-627-2628<\/p>"
           }
         },
         "b382b91a-3cff-49f6-8654-d695133850d1": {
@@ -53,14 +55,13 @@
         "remove_vertical_spacing": true
       }
     },
-    "contact-form": {
-      "type": "contact",
+    "main": {
+      "type": "main-page",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "Need help?",
-        "title": "Contact our customer support",
-        "content": "<p>Our customer support team is here to assist you Monday through Friday, from 9am to 7pm EST. We highly recommend using our live chat system for any product inquiries or requests.<\/p>"
+        "show_title": true,
+        "page_width": "xs"
       }
     },
     "97050bf1-dae6-4b3e-8997-91115c4682ee": {
@@ -113,9 +114,9 @@
     }
   },
   "order": [
-    "main",
-    "9f63dc49-09c3-475c-a090-01f89308769f",
     "contact-form",
+    "9f63dc49-09c3-475c-a090-01f89308769f",
+    "main",
     "97050bf1-dae6-4b3e-8997-91115c4682ee"
   ]
 }
