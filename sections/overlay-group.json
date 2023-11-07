@@ -29,7 +29,7 @@
         "apparition_delay": 15,
         "show_only_on_index": false,
         "hide_for_account_holders": true,
-        "show_only_once": false,
+        "show_only_once": true,
         "title": "Signup for our newsletter",
         "content": "Enjoy 10% off when you subscribe to our newsletter. <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\"><em>Terms and condition applies<\/em><\/a>",
         "button_text": "Subscribe"
