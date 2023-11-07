@@ -2,11 +2,55 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "color_scheme": "",
         "show_title": true,
-        "page_width": "xs"
+        "page_width": "full"
+      }
+    },
+    "9f63dc49-09c3-475c-a090-01f89308769f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "We are here to help you"
+          }
+        },
+        "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Contact us by:",
+            "heading_tag": "h4"
+          }
+        },
+        "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>By online chat<\/p><p>By email support@boatinghaven.com<\/p>"
+          }
+        },
+        "b382b91a-3cff-49f6-8654-d695133850d1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Headquarters:<\/strong><\/p><p>9784 boul LaSalle,<\/p><p>Montréal, QC<\/p><p>Canada, H8R 2N3<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-subheading-1",
+        "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-heading-1",
+        "template--21598672945451__9f63dc49-09c3-475c-a090-01f89308769f-richtext-1",
+        "b382b91a-3cff-49f6-8654-d695133850d1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify:\/\/shop_images\/contactez.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "contact-form": {
@@ -18,10 +62,60 @@
         "title": "Contact our customer support",
         "content": "<p>Our customer support team is here to assist you Monday through Friday, from 9am to 7pm EST. We highly recommend using our live chat system for any product inquiries or requests.<\/p>"
       }
+    },
+    "97050bf1-dae6-4b3e-8997-91115c4682ee": {
+      "type": "faq",
+      "blocks": {
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-category-1": {
+          "type": "category",
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-question-1": {
+          "type": "question",
+          "settings": {
+            "question": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-question-2": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to get my orders?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-question-3": {
+          "type": "question",
+          "settings": {
+            "question": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-category-1",
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-question-1",
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-question-2",
+        "template--21598672945451__97050bf1-dae6-4b3e-8997-91115c4682ee-question-3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
     }
   },
   "order": [
     "main",
-    "contact-form"
+    "9f63dc49-09c3-475c-a090-01f89308769f",
+    "contact-form",
+    "97050bf1-dae6-4b3e-8997-91115c4682ee"
   ]
 }
