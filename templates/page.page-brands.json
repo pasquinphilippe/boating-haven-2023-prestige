@@ -3,9 +3,6 @@
     "main": {
       "type": "main-brands",
       "settings": {
-        "color_scheme": "",
-        "show_title": true,
-        "page_width": "full"
       }
     }
   },
