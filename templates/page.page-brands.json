@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "main-page",
+      "type": "main-brands",
       "settings": {
         "color_scheme": "",
         "show_title": true,
